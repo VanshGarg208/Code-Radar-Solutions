@@ -3,7 +3,7 @@
 int main(){
     float n;
     scanf("%d", &n);
-    printf("%d", n);
+    printf("You entered: %d", n);
 
     return 0;
 }
