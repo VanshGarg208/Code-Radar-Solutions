@@ -2,8 +2,8 @@
 
 int main() {
     char n;
-    scanf("%d", &n);
-    printf("You entered: %d", n)
+    scanf("%c", &n);
+    printf("You entered: %c", n)
 
     return 0;
 }
