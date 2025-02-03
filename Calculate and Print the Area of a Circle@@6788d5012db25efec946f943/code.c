@@ -7,7 +7,7 @@ int main() {
     area = pi*r*r;
 
     scanf("%f", &r);
-    printf("Area: %.2f", area);
+    printf("Area: %.2lf", area);
 
     return 0;
 }
