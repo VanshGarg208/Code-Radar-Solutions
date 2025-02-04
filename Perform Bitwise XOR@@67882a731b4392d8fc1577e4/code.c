@@ -2,7 +2,7 @@
 
 int main() {
     int a, b, result;
-    scnaf("%d %d", &a, &b);
+    scanf("%d %d", &a, &b);
     result = a ^ b;
     printf("%d", result);
 
