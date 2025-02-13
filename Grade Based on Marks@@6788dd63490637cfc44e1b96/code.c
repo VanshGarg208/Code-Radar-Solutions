@@ -11,7 +11,7 @@ int main(){
         printf("B");
     }
 
-    else if (n >= 70 && n < 60) {
+    else if (n >= 70 && n < 80) {
         printf("C");
     }
 
