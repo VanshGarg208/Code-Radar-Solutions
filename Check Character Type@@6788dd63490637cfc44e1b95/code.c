@@ -7,7 +7,7 @@ int main(){
         printf("Vowel");
     }
 
-    else if {
+    else if ((n != 'a') || (n != 'e') || (n != 'i') || (n != 'o') || (n != 'u')) {
         printf("Consonant");
     }
 
