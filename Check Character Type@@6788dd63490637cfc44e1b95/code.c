@@ -15,5 +15,9 @@ int main(){
         printf("Digit");
     }
 
+    else if (n == @) {
+        printf("Special Character");
+    }
+
     return 0;
 }
