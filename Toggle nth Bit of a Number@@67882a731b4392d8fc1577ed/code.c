@@ -5,7 +5,7 @@ int main() {
 
     scanf("%d %d", &num, &n);
 
-    result = num ^ (n << 1);
+    result = num ^ (1 << n);
 
     printf("%d", result);
 
