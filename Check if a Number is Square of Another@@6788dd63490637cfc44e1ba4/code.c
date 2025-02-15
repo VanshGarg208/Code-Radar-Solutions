@@ -11,5 +11,5 @@ int main() {
         printf("No");
     }
 
-    retrun 0;
+    return 0;
 }
