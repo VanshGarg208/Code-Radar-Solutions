@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int month;
-    scnaf("%d", &n);
+    scanf("%d", &n);
 
     switch (month) {
         case 1: printf("31"); break;
