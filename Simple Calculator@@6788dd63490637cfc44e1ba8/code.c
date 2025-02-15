@@ -10,12 +10,14 @@ int main() {
         case '*': printf("%d", a*b); break;
         case '/':
             if (b == 0) {
-                printf("Invalid"); break
+                printf("Invalid"); break;
             }
 
             else {
-                printf("%d", a/b); break
+                printf("%d", a/b); break;
             }
+
+        default : printf("Invalid"); break;
     }
 
     return 0;
