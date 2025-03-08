@@ -17,11 +17,11 @@ int is_Prime(int num) {
 int main() {
 
     int t, num;
-    scanf("%d", &num);
+    scanf("%d", &t);
 
     while (t--) {
         scanf("%d", &num);
-        printf("%d", is_Prime(num));
+        printf("%d\n", is_Prime(num));
     }
 
     return 0;
